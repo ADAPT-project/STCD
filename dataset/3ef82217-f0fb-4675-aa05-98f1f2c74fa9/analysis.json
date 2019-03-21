@@ -1,0 +1,360 @@
+{
+  "analyst_email": "Default Analyst Email",
+  "analyst_name": "Default Analyst Email",
+  "created": "2019-01-24T20:12:41",
+  "edges": [
+    {
+      "id": "252bce0f-753e-454d-8094-8e48c3482da0",
+      "source_id": "9feb5686-11ba-4018-bb95-b514634a3ddc",
+      "target_id": "f76f8bf3-d74f-407b-af16-636f724756b6"
+    },
+    {
+      "id": "158914b2-f73d-4cfa-894b-4822d4f69992",
+      "source_id": "f76f8bf3-d74f-407b-af16-636f724756b6",
+      "target_id": "af6114e4-01c4-435c-85ef-d8e7357a1cd3"
+    },
+    {
+      "id": "94de28af-f3c3-4f37-b689-8f483cf44177",
+      "source_id": "2f43d269-f4f2-42f0-8982-dbb18e236890",
+      "target_id": "edf9719e-4e5b-4614-a23a-8ccdd0ec2016"
+    },
+    {
+      "id": "553de24c-bc78-41e2-8b80-8fc6acfe4156",
+      "source_id": "edf9719e-4e5b-4614-a23a-8ccdd0ec2016",
+      "target_id": "2ccd3bac-93d8-4d6a-938e-d0bb39a4cd8c"
+    },
+    {
+      "id": "91905f78-4dae-478d-9485-7155827eb7f9",
+      "source_id": "1c4fbdef-9742-4024-b0ef-0fdb3583cc0d",
+      "target_id": "edf9719e-4e5b-4614-a23a-8ccdd0ec2016"
+    },
+    {
+      "id": "7c6a23a5-562a-4579-b922-939f6475a9d9",
+      "source_id": "59095e8c-deaf-4053-854e-310e54a4879d",
+      "target_id": "7fd92e9d-ffc5-4d55-9927-aa9f479e961d"
+    },
+    {
+      "id": "b4be905d-5529-467f-a8d4-a9177637f936",
+      "source_id": "7fd92e9d-ffc5-4d55-9927-aa9f479e961d",
+      "target_id": "0680f22e-908a-43ee-8926-1256eb40e847"
+    },
+    {
+      "id": "770919dc-c8c4-4c09-82bb-988e75bcd904",
+      "source_id": "65e345a8-9f0b-4050-90ad-ca716376f6fc",
+      "target_id": "7fd92e9d-ffc5-4d55-9927-aa9f479e961d"
+    },
+    {
+      "id": "ef80b8b7-fe1b-4e22-b858-296774485747",
+      "source_id": "3e17e444-f9bb-4d12-b2b9-792b9a30baf9",
+      "target_id": "7fd92e9d-ffc5-4d55-9927-aa9f479e961d"
+    },
+    {
+      "id": "33a65d60-f510-46eb-bd52-83b1aacb73a0",
+      "source_id": "5f7b6e4d-bbec-49ba-9fdb-1b605a4bb829",
+      "target_id": "928a732c-f7b0-487c-8429-2bec376bc983"
+    },
+    {
+      "id": "7c19ffa1-6cc2-4788-b635-7d58467a5a1c",
+      "source_id": "b41c28e1-efca-40ee-b036-118a03713e69",
+      "target_id": "5f7b6e4d-bbec-49ba-9fdb-1b605a4bb829"
+    },
+    {
+      "id": "68034748-a037-404b-a73e-c0f59c38ccd5",
+      "source_id": "1f0e4fb0-0823-4ac4-9532-16b4cadf7853",
+      "target_id": "7fd92e9d-ffc5-4d55-9927-aa9f479e961d"
+    },
+    {
+      "id": "d945b98a-1dbd-45a1-9f65-04cd46e46c1b",
+      "source_id": "235c57da-a19e-4eaa-8bcc-32ee125adb59",
+      "target_id": "7fd92e9d-ffc5-4d55-9927-aa9f479e961d"
+    },
+    {
+      "id": "cc593a16-7612-4671-93e9-910de190ca64",
+      "source_id": "928a732c-f7b0-487c-8429-2bec376bc983",
+      "target_id": "09df5006-d58c-4720-8629-e81241087e1a"
+    },
+    {
+      "id": "33f9b078-9ac1-477d-8490-44a1053efc1a",
+      "source_id": "af6114e4-01c4-435c-85ef-d8e7357a1cd3",
+      "target_id": "09df5006-d58c-4720-8629-e81241087e1a"
+    },
+    {
+      "id": "d3d18877-ba5c-4132-98de-87422e1a6c8a",
+      "source_id": "0680f22e-908a-43ee-8926-1256eb40e847",
+      "target_id": "09df5006-d58c-4720-8629-e81241087e1a"
+    },
+    {
+      "id": "62ea38dc-f434-419c-abee-ce5ac4bcefc8",
+      "source_id": "2ccd3bac-93d8-4d6a-938e-d0bb39a4cd8c",
+      "target_id": "09df5006-d58c-4720-8629-e81241087e1a"
+    },
+    {
+      "id": "94b79bfe-572a-4bab-84c5-42daa9695a95",
+      "source_id": "09df5006-d58c-4720-8629-e81241087e1a",
+      "target_id": "fedd1c7a-44e6-4516-b65d-4bfa977f805f"
+    },
+    {
+      "id": "967296af-940f-4ef2-8653-6be39aaa1814",
+      "source_id": "0db1194e-3840-464a-8a4d-de247f369374",
+      "target_id": "2ff647b3-473c-4c5c-b418-b2ba597f1d51"
+    },
+    {
+      "id": "b3a060a7-5b09-429d-a3d9-e26154db44db",
+      "source_id": "2ff647b3-473c-4c5c-b418-b2ba597f1d51",
+      "target_id": "fedd1c7a-44e6-4516-b65d-4bfa977f805f"
+    }
+  ],
+  "edited": "2019-01-24T20:48:10",
+  "id": "0208ed4e-a258-49be-ab24-90f183755fa8",
+  "metadata": {},
+  "nodes": [
+    {
+      "id": "af6114e4-01c4-435c-85ef-d8e7357a1cd3",
+      "type": "atom",
+      "text": "I started working with NHS National Services Scotland three years ago now. I was always a cyclist commuter and this new job allowed me to maintain my cycle commute.",
+      "sources": [
+        {
+          "resource_id": "39622792-6f5d-4bed-9a30-2584b2d2a416",
+          "text": "I started working with NHS National Services Scotland three years ago now. I was always a cyclist commuter and this new job allowed me to maintain my cycle commute.",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "9feb5686-11ba-4018-bb95-b514634a3ddc",
+      "type": "atom",
+      "text": "In fact it made it much easier, with secure bike parking, shower and locker facilities and, more recently, drying facilities too, so we are superbly well catered at work for cycling. ",
+      "sources": [
+        {
+          "resource_id": "39622792-6f5d-4bed-9a30-2584b2d2a416",
+          "text": "In fact it made it much easier, with secure bike parking, shower and locker facilities and, more recently, drying facilities too, so we are superbly well catered at work for cycling. ",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "f76f8bf3-d74f-407b-af16-636f724756b6",
+      "type": "scheme",
+      "name": "Default Support"
+    },
+    {
+      "id": "0db1194e-3840-464a-8a4d-de247f369374",
+      "type": "atom",
+      "text": "Our building has a Health Promotion Group which I was made aware of early on, and being a cyclist it seemed natural to become part of it. It was my intention to take a small role initially, but quite quickly it became something that I really enjoyed doing. The group conducts running and walking groups and we all support each other when we can. I quickly became a jog leader, regularly taking colleagues out for a jog around the local area.",
+      "sources": [
+        {
+          "resource_id": "39622792-6f5d-4bed-9a30-2584b2d2a416",
+          "text": "Our building has a Health Promotion Group which I was made aware of early on, and being a cyclist it seemed natural to become part of it. It was my intention to take a small role initially, but quite quickly it became something that I really enjoyed doing. The group conducts running and walking groups and we all support each other when we can. I quickly became a jog leader, regularly taking colleagues out for a jog around the local area.",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "09df5006-d58c-4720-8629-e81241087e1a",
+      "type": "scheme",
+      "name": "Argument from Precedent"
+    },
+    {
+      "id": "1f0e4fb0-0823-4ac4-9532-16b4cadf7853",
+      "type": "atom",
+      "text": "Every now and then we have a health promotion event in our main lobby, which includes stalls for the jogging and walking groups, health checks with our onsite nurses, information to give up smoking, and external organisations such as Sustrans.",
+      "sources": [
+        {
+          "resource_id": "39622792-6f5d-4bed-9a30-2584b2d2a416",
+          "text": "Every now and then we have a health promotion event in our main lobby, which includes stalls for the jogging and walking groups, health checks with our onsite nurses, information to give up smoking, and external organisations such as Sustrans.",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "fedd1c7a-44e6-4516-b65d-4bfa977f805f",
+      "type": "atom",
+      "text": "I loved inspiring people in my work to get active and so I became a Sustrans workplace volunteer in 2014.",
+      "sources": [
+        {
+          "resource_id": "39622792-6f5d-4bed-9a30-2584b2d2a416",
+          "text": "I loved inspiring people in my work to get active and so I became a Sustrans workplace volunteer in 2014.",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "2ccd3bac-93d8-4d6a-938e-d0bb39a4cd8c",
+      "type": "atom",
+      "text": "Supporting colleagues to cycle to work",
+      "sources": [
+        {
+          "resource_id": "39622792-6f5d-4bed-9a30-2584b2d2a416",
+          "text": "Supporting colleagues to cycle to work",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "2f43d269-f4f2-42f0-8982-dbb18e236890",
+      "type": "atom",
+      "text": "A couple of months into my role I successfully applied for Sustrans funding for a pool bike, which was matched by my director to give us two bikes for staff use.\n\nNow colleagues can check the bike out for a cycle ride whenever they’re free, which has helped to encourage even more people to take up cycling and start commuting to work by bike. ",
+      "sources": [
+        {
+          "resource_id": "39622792-6f5d-4bed-9a30-2584b2d2a416",
+          "text": "A couple of months into my role I successfully applied for Sustrans funding for a pool bike, which was matched by my director to give us two bikes for staff use.\n\nNow colleagues can check the bike out for a cycle ride whenever they’re free, which has helped to encourage even more people to take up cycling and start commuting to work by bike. ",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "edf9719e-4e5b-4614-a23a-8ccdd0ec2016",
+      "type": "scheme",
+      "name": "Argument from Example"
+    },
+    {
+      "id": "1c4fbdef-9742-4024-b0ef-0fdb3583cc0d",
+      "type": "atom",
+      "text": "More recently, a Sustrans-funded Cycle Ride Leader course has allowed myself and one of my other colleagues to become Lunchtime Social Cycle ride leaders.\n\nThis summer we’ve taken groups out for a bike ride over lunchtime roughly every second Tuesday – avoiding clashes with lunchtime led jogs and walks, and the rush to get to the pub after work on a Friday! It’s a great way to get us up and moving and away from our desks, as well as being social and good fun. ",
+      "sources": [
+        {
+          "resource_id": "39622792-6f5d-4bed-9a30-2584b2d2a416",
+          "text": "More recently, a Sustrans-funded Cycle Ride Leader course has allowed myself and one of my other colleagues to become Lunchtime Social Cycle ride leaders.\n\nThis summer we’ve taken groups out for a bike ride over lunchtime roughly every second Tuesday – avoiding clashes with lunchtime led jogs and walks, and the rush to get to the pub after work on a Friday! It’s a great way to get us up and moving and away from our desks, as well as being social and good fun. ",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "0680f22e-908a-43ee-8926-1256eb40e847",
+      "type": "atom",
+      "text": "Motivating people to get active",
+      "sources": [
+        {
+          "resource_id": "39622792-6f5d-4bed-9a30-2584b2d2a416",
+          "text": "Motivating people to get active",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "59095e8c-deaf-4053-854e-310e54a4879d",
+      "type": "atom",
+      "text": "There is so much cycling stuff going on out there that it is hard to keep track of sometimes but we use a website called ScotBUG to share useful information and news. We include internal initiatives such as our cycle to work scheme as well as getting groups together to take part in events such as the Skyride and Pedal for Scotland.\n\nFrom our building of maybe 500 staff there are now 70 people signed up to receive updates and we add to this number regularly. \n",
+      "sources": [
+        {
+          "resource_id": "39622792-6f5d-4bed-9a30-2584b2d2a416",
+          "text": "There is so much cycling stuff going on out there that it is hard to keep track of sometimes but we use a website called ScotBUG to share useful information and news. We include internal initiatives such as our cycle to work scheme as well as getting groups together to take part in events such as the Skyride and Pedal for Scotland.\n\nFrom our building of maybe 500 staff there are now 70 people signed up to receive updates and we add to this number regularly. \n",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "7fd92e9d-ffc5-4d55-9927-aa9f479e961d",
+      "type": "scheme",
+      "name": "Argument from Example"
+    },
+    {
+      "id": "65e345a8-9f0b-4050-90ad-ca716376f6fc",
+      "type": "atom",
+      "text": "Our newest event is supporting Breast Cancer Care Scotland in their Tour de Scotland static bike challenge. Over two days in October we’re motivating people to cycle for 15 minutes, make a donation and compete against others around Scotland. Two of our other sites are also taking part so we will have some definite competition to spur us on. ",
+      "sources": [
+        {
+          "resource_id": "39622792-6f5d-4bed-9a30-2584b2d2a416",
+          "text": "Our newest event is supporting Breast Cancer Care Scotland in their Tour de Scotland static bike challenge. Over two days in October we’re motivating people to cycle for 15 minutes, make a donation and compete against others around Scotland. Two of our other sites are also taking part so we will have some definite competition to spur us on. ",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "235c57da-a19e-4eaa-8bcc-32ee125adb59",
+      "type": "atom",
+      "text": "We have recently written to the council to request that the one-way street behind our building is given a contraflow for bikes, this has been adopted and will soon be implemented.\n",
+      "sources": [
+        {
+          "resource_id": "39622792-6f5d-4bed-9a30-2584b2d2a416",
+          "text": "We have recently written to the council to request that the one-way street behind our building is given a contraflow for bikes, this has been adopted and will soon be implemented.\n",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "3e17e444-f9bb-4d12-b2b9-792b9a30baf9",
+      "type": "atom",
+      "text": "If you have an idea of how to improve the cycling experience in your area, make any suggestions you can – it might just happen.\n",
+      "sources": [
+        {
+          "resource_id": "39622792-6f5d-4bed-9a30-2584b2d2a416",
+          "text": "If you have an idea of how to improve the cycling experience in your area, make any suggestions you can – it might just happen.\n",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "928a732c-f7b0-487c-8429-2bec376bc983",
+      "type": "atom",
+      "text": "Enjoying the challenge",
+      "sources": [
+        {
+          "resource_id": "39622792-6f5d-4bed-9a30-2584b2d2a416",
+          "text": "Enjoying the challenge",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "b41c28e1-efca-40ee-b036-118a03713e69",
+      "type": "atom",
+      "text": "If you’d like to encourage people in your workplace to be more active I think the main thing is to just keep going, keep chipping away and enjoy the challenge of bringing cycling into people’s lives.",
+      "sources": [
+        {
+          "resource_id": "39622792-6f5d-4bed-9a30-2584b2d2a416",
+          "text": "If you’d like to encourage people in your workplace to be more active I think the main thing is to just keep going, keep chipping away and enjoy the challenge of bringing cycling into people’s lives.",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "5f7b6e4d-bbec-49ba-9fdb-1b605a4bb829",
+      "type": "scheme",
+      "name": "Argument from Example"
+    },
+    {
+      "id": "2ff647b3-473c-4c5c-b418-b2ba597f1d51",
+      "type": "scheme",
+      "name": "Default Support"
+    }
+  ],
+  "resources": [
+    {
+      "id": "39622792-6f5d-4bed-9a30-2584b2d2a416",
+      "content": "What you can do\nHow I've made my workplace healthier: Gordon's story\nGordon and colleagues getting ready for a bike ride\nGordon encourages his fellow colleagues to cycle to work and get active\n\nGordon and his colleagues stop for a break after a bike ride in Maryhill Locks\nGordon also runs lunchtime social bike rides to help colleagues feel confident cycling\n\n1\n2\nGordon Stewart is a workplace volunteer in Glasgow, encouraging and inspiring his colleagues to walk, jog, and cycle to and from work. \n\nI started working with NHS National Services Scotland three years ago now. I was always a cyclist commuter and this new job allowed me to maintain my cycle commute. In fact it made it much easier, with secure bike parking, shower and locker facilities and, more recently, drying facilities too, so we are superbly well catered at work for cycling. \n\nGetting started as a workplace volunteer\nOur building has a Health Promotion Group which I was made aware of early on, and being a cyclist it seemed natural to become part of it. It was my intention to take a small role initially, but quite quickly it became something that I really enjoyed doing. The group conducts running and walking groups and we all support each other when we can. I quickly became a jog leader, regularly taking colleagues out for a jog around the local area.\n\nEvery now and then we have a health promotion event in our main lobby, which includes stalls for the jogging and walking groups, health checks with our onsite nurses, information to give up smoking, and external organisations such as Sustrans.\n\nI loved inspiring people in my work to get active and so I became a Sustrans workplace volunteer in 2014.\n\nSupporting colleagues to cycle to work\nA couple of months into my role I successfully applied for Sustrans funding for a pool bike, which was matched by my director to give us two bikes for staff use.\n\nNow colleagues can check the bike out for a cycle ride whenever they’re free, which has helped to encourage even more people to take up cycling and start commuting to work by bike. \n\nMore recently, a Sustrans-funded Cycle Ride Leader course has allowed myself and one of my other colleagues to become Lunchtime Social Cycle ride leaders.\n\nThis summer we’ve taken groups out for a bike ride over lunchtime roughly every second Tuesday – avoiding clashes with lunchtime led jogs and walks, and the rush to get to the pub after work on a Friday! It’s a great way to get us up and moving and away from our desks, as well as being social and good fun. \n\nMotivating people to get active\nThere is so much cycling stuff going on out there that it is hard to keep track of sometimes but we use a website called ScotBUG to share useful information and news. We include internal initiatives such as our cycle to work scheme as well as getting groups together to take part in events such as the Skyride and Pedal for Scotland.\n\nFrom our building of maybe 500 staff there are now 70 people signed up to receive updates and we add to this number regularly. \n\nOur newest event is supporting Breast Cancer Care Scotland in their Tour de Scotland static bike challenge. Over two days in October we’re motivating people to cycle for 15 minutes, make a donation and compete against others around Scotland. Two of our other sites are also taking part so we will have some definite competition to spur us on. \n\nWe have recently written to the council to request that the one-way street behind our building is given a contraflow for bikes, this has been adopted and will soon be implemented.\n\nIf you have an idea of how to improve the cycling experience in your area, make any suggestions you can – it might just happen.\n\nEnjoying the challenge\nIf you’d like to encourage people in your workplace to be more active I think the main thing is to just keep going, keep chipping away and enjoy the challenge of bringing cycling into people’s lives.\n\nIt’s a slow process and dragging people away from their desks is hard to do but being active makes everyone happier and more productive. It fills me with pride that people appreciate what I am doing. Go for it.\n\nCheck out our tips for cycling to work with confidence\nWant to encourage your colleagues to cycle to work? Take a look at our guidance for becoming a bike buddy",
+      "type": "text",
+      "metadata": {}
+    }
+  ]
+}

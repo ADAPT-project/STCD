@@ -1,0 +1,304 @@
+{
+  "analyst_email": "Default Analyst Email",
+  "analyst_name": "Default Analyst Email",
+  "created": "2019-01-24T19:06:22",
+  "edges": [
+    {
+      "id": "4aeab68c-e5de-4d13-b8b0-0517ac3d2cfb",
+      "source_id": "3b66accc-f7ab-4776-a1c4-6cf375c2bb0a",
+      "target_id": "d472ba12-d3c1-4259-aa7b-416173524554"
+    },
+    {
+      "id": "20eceab3-9834-406b-81e0-c93a2354d514",
+      "source_id": "d472ba12-d3c1-4259-aa7b-416173524554",
+      "target_id": "096051ba-6c40-48e9-a6c4-1ff6c381603a"
+    },
+    {
+      "id": "e525eae4-1b4d-4c2a-a739-08d536cc028d",
+      "source_id": "0c9d5456-cb1d-421c-9ca2-3a2d61b1bfb2",
+      "target_id": "d472ba12-d3c1-4259-aa7b-416173524554"
+    },
+    {
+      "id": "1e23e266-320e-454c-b03a-f06af0c83606",
+      "source_id": "abfb1627-ed9a-4653-b0d4-5529657426a5",
+      "target_id": "d472ba12-d3c1-4259-aa7b-416173524554"
+    },
+    {
+      "id": "c7920539-d412-4b4f-9373-98a946105cac",
+      "source_id": "3e2ed60d-6898-411f-981b-1d2f2047e1ec",
+      "target_id": "f6dd5370-ae09-4957-8f1b-90526f0158ca"
+    },
+    {
+      "id": "9a4d53ac-0c8e-43f8-9a26-158f4952ed1f",
+      "source_id": "f6dd5370-ae09-4957-8f1b-90526f0158ca",
+      "target_id": "3b66accc-f7ab-4776-a1c4-6cf375c2bb0a"
+    },
+    {
+      "id": "6a082fb6-cf2d-4769-8553-fceda468d6e0",
+      "source_id": "0c70ebbc-f8ec-4e16-9274-39a2d2f47ebf",
+      "target_id": "c3c94c3c-6ec5-4c18-ba36-193277f68cfa"
+    },
+    {
+      "id": "c1e21f9b-49ed-4a43-9535-f29bc2806059",
+      "source_id": "c3c94c3c-6ec5-4c18-ba36-193277f68cfa",
+      "target_id": "0c9d5456-cb1d-421c-9ca2-3a2d61b1bfb2"
+    },
+    {
+      "id": "30ebdb24-1c64-4433-bcbb-91fbc355a3c5",
+      "source_id": "98dee0f6-1171-4dfe-9f2f-d7714c641a3c",
+      "target_id": "d1f92757-3e0a-440c-a9da-b570a795efc9"
+    },
+    {
+      "id": "63270d80-eaa8-40e5-9196-e3889a7937be",
+      "source_id": "d1f92757-3e0a-440c-a9da-b570a795efc9",
+      "target_id": "abfb1627-ed9a-4653-b0d4-5529657426a5"
+    },
+    {
+      "id": "2ca4de03-2e4d-4dc1-94dc-d2d64f11ef92",
+      "source_id": "2ba394ba-5a35-40d9-8fd9-65d5822a521c",
+      "target_id": "94725078-b9fb-4999-9ddd-d49cdd75e0ea"
+    },
+    {
+      "id": "44df5112-03d8-4679-9e21-5bb42d53b858",
+      "source_id": "94725078-b9fb-4999-9ddd-d49cdd75e0ea",
+      "target_id": "15952b4c-78f0-4f9d-8938-045496e759fe"
+    },
+    {
+      "id": "f5cfb732-1c1f-463c-a598-8fbb839153a7",
+      "source_id": "15952b4c-78f0-4f9d-8938-045496e759fe",
+      "target_id": "533b835b-135f-456b-b499-9a4f6e3b53de"
+    },
+    {
+      "id": "c9505384-780a-4940-b008-1068bf4a522b",
+      "source_id": "533b835b-135f-456b-b499-9a4f6e3b53de",
+      "target_id": "69c2a06d-2fbf-4495-9145-e95f2d3066fc"
+    },
+    {
+      "id": "449cbffb-8f2a-40d4-8240-622f07206759",
+      "source_id": "69c2a06d-2fbf-4495-9145-e95f2d3066fc",
+      "target_id": "cbafbe25-d08a-4a7c-a018-ae5c5ef95f85"
+    },
+    {
+      "id": "208c2dbe-3d72-4a21-8d75-6f1293da6067",
+      "source_id": "cbafbe25-d08a-4a7c-a018-ae5c5ef95f85",
+      "target_id": "06036619-dd42-49a9-80df-dcac80359e33"
+    },
+    {
+      "id": "05aaa74c-f6eb-43de-bb6d-884175cd01aa",
+      "source_id": "096051ba-6c40-48e9-a6c4-1ff6c381603a",
+      "target_id": "2c4bfc6e-c525-4b23-8b14-82c599224900"
+    },
+    {
+      "id": "108bb474-1f24-44b4-a906-b5a237d2d64c",
+      "source_id": "2c4bfc6e-c525-4b23-8b14-82c599224900",
+      "target_id": "69c2a06d-2fbf-4495-9145-e95f2d3066fc"
+    }
+  ],
+  "edited": "2019-01-24T20:03:48",
+  "id": "09aa9912-3247-4bea-ab03-455c007d78b8",
+  "metadata": {},
+  "nodes": [
+    {
+      "id": "06036619-dd42-49a9-80df-dcac80359e33",
+      "type": "atom",
+      "text": "Find your car-sharing match with NESTRANS",
+      "sources": [
+        {
+          "resource_id": "bd620c5b-aed7-4c8a-9861-79a0161abb32",
+          "text": "Find your car-sharing match with NESTRANS",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "2ba394ba-5a35-40d9-8fd9-65d5822a521c",
+      "type": "atom",
+      "text": "Did you know a typical commuter can save around £900 a year car-sharing?",
+      "sources": [
+        {
+          "resource_id": "bd620c5b-aed7-4c8a-9861-79a0161abb32",
+          "text": "Did you know a typical commuter can save around £900 a year car-sharing?",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "69c2a06d-2fbf-4495-9145-e95f2d3066fc",
+      "type": "atom",
+      "text": "Would you like to find those travelling in your direction and watch your commuting costs plummet? ",
+      "sources": [
+        {
+          "resource_id": "bd620c5b-aed7-4c8a-9861-79a0161abb32",
+          "text": "Would you like to find those travelling in your direction and watch your commuting costs plummet? ",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "15952b4c-78f0-4f9d-8938-045496e759fe",
+      "type": "atom",
+      "text": "Find out just how much you could save car-sharing, with our nifty savings calculator.",
+      "sources": [
+        {
+          "resource_id": "bd620c5b-aed7-4c8a-9861-79a0161abb32",
+          "text": "Find out just how much you could save car-sharing, with our nifty savings calculator.",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "abfb1627-ed9a-4653-b0d4-5529657426a5",
+      "type": "atom",
+      "text": "Now, you may be thinking...\n\"No one else lives near me\" ",
+      "sources": [
+        {
+          "resource_id": "bd620c5b-aed7-4c8a-9861-79a0161abb32",
+          "text": "Now, you may be thinking...\n\"No one else lives near me\" ",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "98dee0f6-1171-4dfe-9f2f-d7714c641a3c",
+      "type": "atom",
+      "text": " Around 75% of commutes have at least 1 match (the average is 22!)",
+      "sources": [
+        {
+          "resource_id": "bd620c5b-aed7-4c8a-9861-79a0161abb32",
+          "text": " Around 75% of commutes have at least 1 match (the average is 22!)",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "0c9d5456-cb1d-421c-9ca2-3a2d61b1bfb2",
+      "type": "atom",
+      "text": "\"I can't share every day\"",
+      "sources": [
+        {
+          "resource_id": "bd620c5b-aed7-4c8a-9861-79a0161abb32",
+          "text": "\"I can't share every day\"",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "0c70ebbc-f8ec-4e16-9274-39a2d2f47ebf",
+      "type": "atom",
+      "text": "You don't have to! It's flexible: just do it as often as you can.",
+      "sources": [
+        {
+          "resource_id": "bd620c5b-aed7-4c8a-9861-79a0161abb32",
+          "text": "You don't have to! It's flexible: just do it as often as you can.",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "3b66accc-f7ab-4776-a1c4-6cf375c2bb0a",
+      "type": "atom",
+      "text": "\"I don't have a car\"",
+      "sources": [
+        {
+          "resource_id": "bd620c5b-aed7-4c8a-9861-79a0161abb32",
+          "text": "\"I don't have a car\"",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "3e2ed60d-6898-411f-981b-1d2f2047e1ec",
+      "type": "atom",
+      "text": "No problem, you can register as \"seeking a lift\"",
+      "sources": [
+        {
+          "resource_id": "bd620c5b-aed7-4c8a-9861-79a0161abb32",
+          "text": "No problem, you can register as \"seeking a lift\"",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "096051ba-6c40-48e9-a6c4-1ff6c381603a",
+      "type": "atom",
+      "text": "Why not register today and start saving?",
+      "sources": [
+        {
+          "resource_id": "bd620c5b-aed7-4c8a-9861-79a0161abb32",
+          "text": "Why not register today and start saving?",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "d472ba12-d3c1-4259-aa7b-416173524554",
+      "type": "scheme",
+      "name": "Argument from Example"
+    },
+    {
+      "id": "f6dd5370-ae09-4957-8f1b-90526f0158ca",
+      "type": "scheme",
+      "name": "Argument from an Exceptional Case"
+    },
+    {
+      "id": "c3c94c3c-6ec5-4c18-ba36-193277f68cfa",
+      "type": "scheme",
+      "name": "Argument from an Exceptional Case"
+    },
+    {
+      "id": "d1f92757-3e0a-440c-a9da-b570a795efc9",
+      "type": "scheme",
+      "name": "Argument from Popularity"
+    },
+    {
+      "id": "94725078-b9fb-4999-9ddd-d49cdd75e0ea",
+      "type": "scheme",
+      "name": "Argument from Evidence to a Hypothesis"
+    },
+    {
+      "id": "533b835b-135f-456b-b499-9a4f6e3b53de",
+      "type": "scheme",
+      "name": "Default Support"
+    },
+    {
+      "id": "cbafbe25-d08a-4a7c-a018-ae5c5ef95f85",
+      "type": "scheme",
+      "name": "Argument from Consequences"
+    },
+    {
+      "id": "2c4bfc6e-c525-4b23-8b14-82c599224900",
+      "type": "scheme",
+      "name": "Default Conflict"
+    }
+  ],
+  "resources": [
+    {
+      "id": "bd620c5b-aed7-4c8a-9861-79a0161abb32",
+      "content": "Find your car-sharing match with NESTRANS - Get About Liftshare\nDid you know a typical commuter can save around £900 a year car-sharing?\nWould you like to find those travelling in your direction and watch your commuting costs plummet? \nFind out just how much you could save car-sharing, with our nifty savings calculator.\nNow, you may be thinking...\n\"No one else lives near me\" Around 75% of commutes have at least 1 match (the average is 22!)\n\"I can't share every day\" You don't have to! It's flexible: just do it as often as you can.\n\"I don't have a car\" No problem, you can register as \"seeking a lift\"\nWhy not register today and start saving?",
+      "type": "text",
+      "metadata": {}
+    }
+  ]
+}

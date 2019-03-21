@@ -1,0 +1,207 @@
+{
+  "analyst_email": "Default Analyst Email",
+  "analyst_name": "Default Analyst Email",
+  "created": "2019-01-24T18:19:38",
+  "edges": [
+    {
+      "id": "3858f780-56a2-435f-b2b2-545feb5d2792",
+      "source_id": "ba9abddb-f731-49b4-8979-99ef71d4e3c8",
+      "target_id": "dcba28a5-b3a2-4908-9fd7-5f2a533ac041"
+    },
+    {
+      "id": "8d556fc4-3993-4c45-b503-3d96f672729e",
+      "source_id": "dcba28a5-b3a2-4908-9fd7-5f2a533ac041",
+      "target_id": "f41e50a0-bf2c-4c67-a3d8-bd53cd7cb99f"
+    },
+    {
+      "id": "9a4afa8b-4bb3-4fe6-a604-31b0cf01dc2e",
+      "source_id": "b7842fb9-cf1f-43f1-8db4-464041dfbd9c",
+      "target_id": "dcba28a5-b3a2-4908-9fd7-5f2a533ac041"
+    },
+    {
+      "id": "3908459a-3bd6-4711-8c4f-1828ebd279cf",
+      "source_id": "600a9d5d-6a88-468e-9093-ee03adb1b80b",
+      "target_id": "f800b1df-9233-4c66-a8c7-2155969a42ce"
+    },
+    {
+      "id": "9e73bc86-b44a-479e-b850-633e8ed801a0",
+      "source_id": "f800b1df-9233-4c66-a8c7-2155969a42ce",
+      "target_id": "041826a1-8701-451e-8096-42dae654f72d"
+    },
+    {
+      "id": "bdfa3ad2-e194-4f73-a74f-aee482931f79",
+      "source_id": "55faecd4-0ba0-4ffa-a238-ed5c1d8bdaa7",
+      "target_id": "f800b1df-9233-4c66-a8c7-2155969a42ce"
+    },
+    {
+      "id": "0b644f98-ef37-4624-8ea1-49b9784104ea",
+      "source_id": "c8c50c49-7f5f-4290-a4fa-fc9b40a2a25c",
+      "target_id": "a50a6f00-7fe0-4c78-94b7-7e87ef9ed029"
+    },
+    {
+      "id": "06a341b3-3cf8-4d9f-ab48-f1b4a34b6134",
+      "source_id": "a50a6f00-7fe0-4c78-94b7-7e87ef9ed029",
+      "target_id": "041826a1-8701-451e-8096-42dae654f72d"
+    },
+    {
+      "id": "1ea06a77-f0d1-4493-b183-b70986ed4005",
+      "source_id": "041826a1-8701-451e-8096-42dae654f72d",
+      "target_id": "dcba28a5-b3a2-4908-9fd7-5f2a533ac041"
+    },
+    {
+      "id": "8166ac3b-3122-4e87-aa3b-8c055414b8d4",
+      "source_id": "e209cdca-047b-4cc2-a074-6c5c82b68caa",
+      "target_id": "f800b1df-9233-4c66-a8c7-2155969a42ce"
+    }
+  ],
+  "edited": "2019-01-24T18:56:16",
+  "id": "9e197302-c873-4ff1-b961-9d56f91632d0",
+  "metadata": {},
+  "nodes": [
+    {
+      "id": "041826a1-8701-451e-8096-42dae654f72d",
+      "type": "atom",
+      "text": "A comprehensive network of on and off-road cycle routes have been established across Aberdeen City and Shire, and more projects are being completed all the time.",
+      "sources": [
+        {
+          "resource_id": "c4c20e79-adeb-476c-97b9-91893237d226",
+          "text": "A comprehensive network of on and off-road cycle routes have been established across Aberdeen City and Shire, and more projects are being completed all the time.",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "c8c50c49-7f5f-4290-a4fa-fc9b40a2a25c",
+      "type": "atom",
+      "text": "Cycling activity in Aberdeen is being monitored – the last snapshot count indicated around 700 cyclists are on the move at 11 key locations across the city during the morning rush hour – and, as new cycling routes go live, it is expected pedal power will become increasingly prominent.\n ",
+      "sources": [
+        {
+          "resource_id": "c4c20e79-adeb-476c-97b9-91893237d226",
+          "text": "Cycling activity in Aberdeen is being monitored – the last snapshot count indicated around 700 cyclists are on the move at 11 key locations across the city during the morning rush hour – and, as new cycling routes go live, it is expected pedal power will become increasingly prominent.\n ",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "600a9d5d-6a88-468e-9093-ee03adb1b80b",
+      "type": "atom",
+      "text": "Projects completed include the Peterhead Cycle Network, The Westhill Cycle route, a tarmac surface on the Deeside way all the way to Peterculter including new bridges and Riverside Drive in the city is moving towards completion. In addition there are new cycle networks being created in towns throughout the Shire and strategic links across the region.",
+      "sources": [
+        {
+          "resource_id": "c4c20e79-adeb-476c-97b9-91893237d226",
+          "text": "Projects completed include the Peterhead Cycle Network, The Westhill Cycle route, a tarmac surface on the Deeside way all the way to Peterculter including new bridges and Riverside Drive in the city is moving towards completion. In addition there are new cycle networks being created in towns throughout the Shire and strategic links across the region.",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "ba9abddb-f731-49b4-8979-99ef71d4e3c8",
+      "type": "atom",
+      "text": "The work to make the region a more cycle-friendly place is two-dimensional: to make cycling safer ",
+      "sources": [
+        {
+          "resource_id": "c4c20e79-adeb-476c-97b9-91893237d226",
+          "text": "The work to make the region a more cycle-friendly place is two-dimensional: to make cycling safer ",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "b7842fb9-cf1f-43f1-8db4-464041dfbd9c",
+      "type": "atom",
+      "text": " to make it more attractive to those for who are new to cycling.",
+      "sources": [
+        {
+          "resource_id": "c4c20e79-adeb-476c-97b9-91893237d226",
+          "text": " to make it more attractive to those for who are new to cycling.",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "f41e50a0-bf2c-4c67-a3d8-bd53cd7cb99f",
+      "type": "atom",
+      "text": "The work to make the region a more cycle-friendly place is two-dimensional: ",
+      "sources": [
+        {
+          "resource_id": "c4c20e79-adeb-476c-97b9-91893237d226",
+          "text": "The work to make the region a more cycle-friendly place is two-dimensional: ",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "55faecd4-0ba0-4ffa-a238-ed5c1d8bdaa7",
+      "type": "atom",
+      "text": "Ongoing survey work is also undertaken to count cyclist numbers and the most popular cycling routes, so future investment can be better planned.",
+      "sources": [
+        {
+          "resource_id": "c4c20e79-adeb-476c-97b9-91893237d226",
+          "text": "Ongoing survey work is also undertaken to count cyclist numbers and the most popular cycling routes, so future investment can be better planned.",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "e209cdca-047b-4cc2-a074-6c5c82b68caa",
+      "type": "atom",
+      "text": " Many organisations are also investing in shelters and secure facilities at locations across the region to accommodate cycling personnel.",
+      "sources": [
+        {
+          "resource_id": "c4c20e79-adeb-476c-97b9-91893237d226",
+          "text": " Many organisations are also investing in shelters and secure facilities at locations across the region to accommodate cycling personnel.",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "dcba28a5-b3a2-4908-9fd7-5f2a533ac041",
+      "type": "scheme",
+      "name": "Argument from Example"
+    },
+    {
+      "id": "f800b1df-9233-4c66-a8c7-2155969a42ce",
+      "type": "scheme",
+      "name": "Argument from Example"
+    },
+    {
+      "id": "a50a6f00-7fe0-4c78-94b7-7e87ef9ed029",
+      "type": "scheme",
+      "name": "Argument from Example"
+    }
+  ],
+  "resources": [
+    {
+      "id": "c4c20e79-adeb-476c-97b9-91893237d226",
+      "content": "A comprehensive network of on and off-road cycle routes have been established across Aberdeen City and Shire, and more projects are being completed all the time.\n \nCycling activity in Aberdeen is being monitored – the last snapshot count indicated around 700 cyclists are on the move at 11 key locations across the city during the morning rush hour – and, as new cycling routes go live, it is expected pedal power will become increasingly prominent.\n \nProjects completed include the Peterhead Cycle Network, The Westhill Cycle route, a tarmac surface on the Deeside way all the way to Peterculter including new bridges and Riverside Drive in the city is moving towards completion. In addition there are new cycle networks being created in towns throughout the Shire and strategic links across the region.\n \nThe work to make the region a more cycle-friendly place is two-dimensional: to make cycling safer and more efficient for those who already use bicycles to get about and also to make it more attractive to those for who are new to cycling.\n \nOngoing survey work is also undertaken to count cyclist numbers and the most popular cycling routes, so future investment can be better planned.\n\n Many organisations are also investing in shelters and secure facilities at locations across the region to accommodate cycling personnel.\n\nWhere to find further information:\n\nwww.aberdeencycleforum.org.uk",
+      "type": "text",
+      "metadata": {
+        "title": "resource"
+      }
+    },
+    {
+      "id": "5e8847f7-d5e0-4666-adcd-40a6c4a3dbdc",
+      "content": " ",
+      "type": "text",
+      "metadata": {
+        "title": "Implicit"
+      }
+    }
+  ]
+}

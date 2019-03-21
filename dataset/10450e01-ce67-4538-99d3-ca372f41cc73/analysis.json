@@ -1,0 +1,84 @@
+{
+  "analyst_email": "Default Analyst Email",
+  "analyst_name": "Default Analyst Email",
+  "created": "2018-10-10T21:49:32",
+  "edges": [
+    {
+      "id": "9b616880-606f-458c-b8e3-7387dd487dd8",
+      "source_id": "99e0f092-f6af-40f7-8a4c-caeabbe197a5",
+      "target_id": "58dd396c-80c6-4dcb-9cc3-e6982e73af24"
+    },
+    {
+      "id": "846aa69e-a943-4aa6-b7f8-e49bf355cc9a",
+      "source_id": "58dd396c-80c6-4dcb-9cc3-e6982e73af24",
+      "target_id": "10d90b2d-ade3-4bd3-9ab2-be88e9db500b"
+    },
+    {
+      "id": "ec201b49-5535-44f7-ad3b-76cc34ac911e",
+      "source_id": "5caa5d52-2b83-4a12-b374-7674f515583a",
+      "target_id": "58dd396c-80c6-4dcb-9cc3-e6982e73af24"
+    }
+  ],
+  "edited": "2019-01-24T17:56:07",
+  "id": "b7e6fc35-1c11-47a5-b09b-2d6226474b16",
+  "metadata": {},
+  "nodes": [
+    {
+      "id": "99e0f092-f6af-40f7-8a4c-caeabbe197a5",
+      "type": "atom",
+      "text": "Although cycling is not an inherently unsafe activity,",
+      "sources": [
+        {
+          "resource_id": "a4922252-ff1b-4e11-9489-c39b6e647348",
+          "text": "Although cycling is not an inherently unsafe activity,",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "10d90b2d-ade3-4bd3-9ab2-be88e9db500b",
+      "type": "atom",
+      "text": "it remains the case in the UK that collisions and casualties are much higher than they should be",
+      "sources": [
+        {
+          "resource_id": "a4922252-ff1b-4e11-9489-c39b6e647348",
+          "text": "it remains the case in the UK that collisions and casualties are much higher than they should be",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "5caa5d52-2b83-4a12-b374-7674f515583a",
+      "type": "atom",
+      "text": "because of the lack of good cycling infrastructure and legal provisions to protect those who cycle.",
+      "sources": [
+        {
+          "resource_id": "a4922252-ff1b-4e11-9489-c39b6e647348",
+          "text": "because of the lack of good cycling infrastructure and legal provisions to protect those who cycle.",
+          "offset": 0,
+          "length": 0
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "58dd396c-80c6-4dcb-9cc3-e6982e73af24",
+      "type": "scheme",
+      "name": "Argument from an Exceptional Case"
+    }
+  ],
+  "resources": [
+    {
+      "id": "a4922252-ff1b-4e11-9489-c39b6e647348",
+      "content": "Although cycling is not an inherently unsafe activity, it remains the case in the UK that collisions and casualties are much higher than they should be, because of the lack of good cycling infrastructure and legal provisions to protect those who cycle.\n\nThis map and the [Image: Icon]  search query facility shows the locations and details of collisions in the period 2005-2014. It uses STATS19 data from the DfT.\n\nWe also have a data interface (API) available for programmers.",
+      "type": "text",
+      "metadata": {
+        "title": "resource"
+      }
+    }
+  ]
+}
